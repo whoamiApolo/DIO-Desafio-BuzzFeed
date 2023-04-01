@@ -6,7 +6,7 @@
 Criando um Clone do BuzzFeed com Angular. Ao final, o resultado exibirá se você optou por ser herói ou vilão.
 
 # Execução do projeto
-Para rodar o projeto, basta executar o comando `ng serve`. Em seguida, navegue `http://localhost:4200/`.
+Para rodar o projeto, basta executar o comando `ng serve`. Em seguida, abra um navegador e acesse `http://localhost:4200/`. No mais, o projeto estará disponível para visualização no link a seguir: [BuzzFeed](https://dio-desafio-buzz-feed.vercel.app/).
 
 # Status do projeto
 🚧 Concluído. Porém, futuramente há possibilidade de novas implementações... 🚧
